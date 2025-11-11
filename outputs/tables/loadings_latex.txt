@@ -1,0 +1,17 @@
+\begin{table}
+\caption{Bảng 3.2: Loadings PCA (Top 10)}
+\begin{tabular}{lrr}
+\toprule
+ & PC1 & PC2 \\
+\midrule
+Length & 0.764804 & 0.651570 \\
+Rating & 0.765983 & -0.650621 \\
+Auth__Albert Einstein & -0.031458 & 0.000961 \\
+Auth__Dr. Seuss & -0.006353 & 0.006467 \\
+Auth__J.K. Rowling & 0.013507 & 0.006001 \\
+Auth__Marilyn Monroe & 0.023875 & -0.040437 \\
+Auth__Mark Twain & -0.044319 & 0.002369 \\
+Auth__Other & 0.044747 & 0.024639 \\
+\bottomrule
+\end{tabular}
+\end{table}
